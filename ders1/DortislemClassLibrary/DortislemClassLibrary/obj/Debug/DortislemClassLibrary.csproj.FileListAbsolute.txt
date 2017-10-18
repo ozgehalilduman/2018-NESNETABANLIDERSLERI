@@ -1,0 +1,6 @@
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\bin\Debug\DortislemClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\bin\Debug\DortislemClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\obj\Debug\DortislemClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\obj\Debug\DortislemClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\obj\Debug\DortislemClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\DortislemClassLibrary\DortislemClassLibrary\obj\Debug\DortislemClassLibrary.pdb

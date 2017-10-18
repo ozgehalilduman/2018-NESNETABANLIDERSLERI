@@ -1,0 +1,11 @@
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Console_hesapMakinasi.exe.config
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Console_hesapMakinasi.exe
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Console_hesapMakinasi.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\obj\Debug\Console_hesapMakinasi.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\obj\Debug\Console_hesapMakinasi.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\obj\Debug\Console_hesapMakinasi.exe
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\obj\Debug\Console_hesapMakinasi.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Grup1ClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Grup2ClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Grup1ClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders1\Console_hesapMakinasi\Console_hesapMakinasi\bin\Debug\Grup2ClassLibrary.pdb

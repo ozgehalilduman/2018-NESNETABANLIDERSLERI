@@ -1,0 +1,11 @@
+--BÝR ÖNCEKÝ DERS
+	using kullanýmý ile ilgili ornek
+--YENÝ KONU
+	<summary> kullanýmý
+	açýklama satýrý EKLEME kýsayolu sýrayla ctrl+k ve ctrl+c
+	açýklama satýrý ÝPTAL ETME kýsayolu sýrayla ctrl+k ve ctrl+u
+
+	hatalara otomatik düzeltme onerileri alt+enter
+	
+	list kullanýmý List<int>
+	

@@ -1,0 +1,2 @@
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3ClassLibrary\Grup3ClassLibrary\obj\Debug\Grup3ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3ClassLibrary\Grup3ClassLibrary\obj\Debug\Grup3ClassLibrary.csproj.CoreCompileInputs.cache

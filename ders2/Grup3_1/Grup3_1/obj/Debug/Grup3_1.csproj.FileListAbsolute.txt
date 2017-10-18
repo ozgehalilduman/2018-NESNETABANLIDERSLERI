@@ -1,0 +1,12 @@
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\bin\Debug\Grup3_1.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\bin\Debug\Grup3_1.pdb
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\obj\Debug\Grup3_1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\obj\Debug\Grup3_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\obj\Debug\Grup3_1.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup3_1\Grup3_1\obj\Debug\Grup3_1.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\bin\Debug\Grup3_1.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\bin\Debug\Grup3_1.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\obj\Debug\Grup3_1.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\obj\Debug\Grup3_1.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\obj\Debug\Grup3_1.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\Grup3_1\Grup3_1\obj\Debug\Grup3_1.pdb

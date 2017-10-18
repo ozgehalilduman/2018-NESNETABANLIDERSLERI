@@ -1,0 +1,6 @@
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\bin\Release\Grup2ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\bin\Release\Grup2ClassLibrary.pdb
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\obj\Release\Grup2ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\obj\Release\Grup2ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\obj\Release\Grup2ClassLibrary.pdb
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup2ClassLibrary\Grup2ClassLibrary\obj\Release\Grup2ClassLibrary.csprojResolveAssemblyReference.cache

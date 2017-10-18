@@ -1,0 +1,9 @@
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\bin\Debug\ogretmenConsoleApp.exe.config
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\bin\Debug\ogretmenConsoleApp.exe
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\bin\Debug\ogretmenConsoleApp.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\bin\Debug\ogretmenClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\bin\Debug\ogretmenClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\obj\Debug\ogretmenConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\obj\Debug\ogretmenConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\obj\Debug\ogretmenConsoleApp.exe
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenConsoleApp\ogretmenConsoleApp\obj\Debug\ogretmenConsoleApp.pdb

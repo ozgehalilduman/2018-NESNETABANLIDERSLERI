@@ -1,0 +1,10 @@
+C:\Users\Administrator.WNDWS-20170606N\source\repos\GRUP1ClassLibrary\GRUP1ClassLibrary\bin\Debug\GRUP1ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\GRUP1ClassLibrary\GRUP1ClassLibrary\bin\Debug\GRUP1ClassLibrary.pdb
+C:\Users\Administrator.WNDWS-20170606N\source\repos\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\GRUP1ClassLibrary\GRUP1ClassLibrary\obj\Debug\GRUP1ClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\GRUP1ClassLibrary\GRUP1ClassLibrary\bin\Debug\GRUP1ClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\GRUP1ClassLibrary\GRUP1ClassLibrary\bin\Debug\GRUP1ClassLibrary.pdb

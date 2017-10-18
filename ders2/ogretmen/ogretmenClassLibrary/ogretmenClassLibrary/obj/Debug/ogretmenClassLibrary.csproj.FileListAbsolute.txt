@@ -1,0 +1,6 @@
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\bin\Debug\ogretmenClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\bin\Debug\ogretmenClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\obj\Debug\ogretmenClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\obj\Debug\ogretmenClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\obj\Debug\ogretmenClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders2\ogretmen\ogretmenClassLibrary\ogretmenClassLibrary\obj\Debug\ogretmenClassLibrary.pdb

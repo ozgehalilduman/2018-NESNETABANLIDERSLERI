@@ -1,0 +1,6 @@
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\bin\Debug\Grup1ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\bin\Debug\Grup1ClassLibrary.pdb
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\obj\Debug\Grup1ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\obj\Debug\Grup1ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\obj\Debug\Grup1ClassLibrary.dll
+C:\Users\Administrator.WNDWS-20170606N\source\repos\Grup1ClassLibrary\Grup1ClassLibrary\obj\Debug\Grup1ClassLibrary.pdb
