@@ -35,27 +35,27 @@ namespace SOZLUKConsoleApp
                 secim = menu();
                 switch (secim)
                 {
-                    case "1":
-                        Console.WriteLine("EKLEME İŞLEMİ");
-                        Eklem_isl();
+                    case "1": 
+                        Ekleme_isl();
                         break;
                     case "2":
-                        Console.WriteLine("silme İŞLEMİ");
+                        Silme_isl();
                         break;
                     case "3":
-                        Console.WriteLine("güncelleme İŞLEMİ");
+                        Guncelleme_isl();
                         break;
                     case "4":
-                        Console.WriteLine("listeleme İŞLEMİ");
+                        Sozluk.Listele();
                         break;
                     case "0":
-                        Console.WriteLine("çıkış İŞLEMİ");
+                        Console.WriteLine("ÇIKIŞ İŞLEMİ");
                         break;
                     default:
                         Console.WriteLine("HATALI İŞLEMİ");
+                        Console.ReadKey();
                         break;
                 }
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             
         }
@@ -69,11 +69,11 @@ namespace SOZLUKConsoleApp
             Console.WriteLine("[[ 4 ]] LİSTELE");
             Console.WriteLine("==================");
             Console.WriteLine("[[ 0 ]] ÇIKIŞ");
-            Console.WriteLine("SECİMİNİZ :");
+            Console.Write("SECİMİNİZ : ");
             string secim = Console.ReadLine();
             return secim;
         }
-        static void Eklem_isl()
+        static void Ekleme_isl()
         {
             Console.WriteLine("==================");
             Console.Write("EKLENECEK YENİ DEGERİ GİRİNİZ   :   ");
@@ -81,6 +81,34 @@ namespace SOZLUKConsoleApp
             Console.WriteLine("==================");
             Sozluk.Ekle(yeni);
             Sozluk.Listele();
+            Console.ReadKey();
+        }
+        static void Silme_isl()
+        {
+            Console.WriteLine("________ORJİNAL LİSTE______");
+            Sozluk.Listele();
+            Console.WriteLine("==================");
+            Console.Write("SİLİNECEK DEGERİ GİRİNİZ   :   ");
+            string silinecek = Console.ReadLine();
+            Console.WriteLine("==================");
+            Sozluk.Sil(silinecek);
+            Sozluk.Listele();
+            Console.ReadKey();
+        }
+        static void Guncelleme_isl()
+        {
+            Console.WriteLine("________ORJİNAL LİSTE______");
+            Sozluk.Listele();
+            Console.WriteLine("==================");
+            Console.Write("GUNCELLENECEK DEGERİ GİRİNİZ   :   ");
+            string aranan = Console.ReadLine();
+            Console.WriteLine("==================");            
+            Console.Write("YENİ DEGERİ GİRİNİZ   :   ");
+            string guncelBilgi = Console.ReadLine();
+            Console.WriteLine("==================");
+            Sozluk.Guncelleme(aranan,guncelBilgi);
+            Sozluk.Listele();
+            Console.ReadKey();
         }
     }
 }
