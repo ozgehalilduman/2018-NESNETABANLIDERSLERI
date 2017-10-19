@@ -1,0 +1,12 @@
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\bin\Debug\KelimelerClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\bin\Debug\KelimelerClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\ders3\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\bin\Debug\KelimelerClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\bin\Debug\KelimelerClassLibrary.pdb
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.dll
+C:\Users\ozgeh\Desktop\NESNEDERS\2018-NESNETABANLIDERSLERI\ders3_1\KelimelerClassLibrary\KelimelerClassLibrary\obj\Debug\KelimelerClassLibrary.pdb
